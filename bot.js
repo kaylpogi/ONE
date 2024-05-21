@@ -263,7 +263,7 @@ client.once('ready', () => {
     client.user.setPresence({
         status: 'available',
         activity: {
-            name: 'HENTAI',
+            name: 'YOUR WEBSITE NIGGA',
             type: 'WATCHING',
             url: 'https://discord.com/'
         }
